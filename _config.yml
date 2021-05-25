@@ -15,10 +15,10 @@ show_header: false  # Whether to show a header on the top of all pages or not.
 
 # Author settings
 author:
-  name: "Awsome Person"
+  name: "Mathïs FEDERICO"
   photo: "/assets/images/default.png"  # Put your portrait in /assets/images folder and set the filename here.
   email:
-    username: example
+    username: mathfederico
     domain: gmail
     tld: com
 
@@ -29,37 +29,23 @@ author:
     - name: Google Scholar
       icon: fas fa-graduation-cap
       url: "https://scholar.google.com/citations?user=SOMETHING&hl=en"
-    - name: BitBucket
-      url:
-    - name: Facebook
-      url:
     - name: Github
-      url: "https://github.com/username"
-    - name: Instagram
-      url:
+      url: "https://github.com/MathisFederico"
     - name: LinkedIn
-      url: "https://linkedin.com/in/username"
+      url: "https://linkedin.com/in/mathis-federico/"
     - name: ORCID
       url:
     - name: ResearchGate
       url:
-    - name: SoundCloud
-      url:
     - name: Stack Overflow
       url:
-    - name: Tumblr
-      url:
     - name: Twitter
-      url:  "https://twitter.com/username"
-    - name: Weibo
-      url:
-    - name: XING
-      url:
+      url:  "https://twitter.com/federico_mathis"
     - name: Youtube
       url:
 
 # Content settings
-timezone: America/Edmonton  # Change it based on your location. Any entry from the IANA Time Zone Database is valid.
+timezone: France/Paris  # Change it based on your location. Any entry from the IANA Time Zone Database is valid.
 featured_posts: 3  # Number of features news shown on the homepage.
 
 collections:
